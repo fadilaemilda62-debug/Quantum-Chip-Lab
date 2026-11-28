@@ -1,0 +1,2 @@
+# Quantum Chip Lab 3.7
+Extract ZIP and upload its CONTENTS to repository root, including reading/ and media/. Vercel: Framework Other, root directory repository root, no build or install command. Original PDF reading pages are embedded locally. Language selector localizes navigation and selected UI labels; detailed English descriptions and Indonesian source PDF are not fully translated. Physics engine unchanged.
